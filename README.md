@@ -16,8 +16,13 @@ I’m a frontend developer passionate about crafting engaging, accessible, and s
 
 ## 🛠️ Technologies & Tools
 <p align="center">
+  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26" />
+  <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6" />
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
-  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933" />
+  <img src="https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=764ABC" />
+  <img src="https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=000000" />
   <img src="https://img.shields.io/badge/Code-Tailwind%20CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=06B6D4" />
   <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" />
   <img src="https://img.shields.io/badge/Tool-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=8DD6F9" />
